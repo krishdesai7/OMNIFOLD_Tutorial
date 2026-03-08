@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this tutorial repository, please cite it using the metadata below."
+title: "PHYSTAT 2024 OmniFold Tutorial"
+type: software
+authors:
+  - family-names: "Desai"
+    given-names: "Krish"
+repository-code: "https://github.com/krishdesai7/OMNIFOLD_Tutorial"
+url: "https://github.com/krishdesai7/OMNIFOLD_Tutorial"
+abstract: "Tutorial repository for learning and applying OmniFold for unfolding, prepared for CMS."
+keywords:
+  - "OmniFold"
+  - "unfolding"
+  - "deconvolution"
+  - "high-energy physics"
+  - "particle physics"
+  - "machine learning"
+license: "MIT"
